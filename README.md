@@ -1,2 +1,3 @@
-# cryptominer
-crypto mining
+#Code Guru
+Coding
+Learning code
